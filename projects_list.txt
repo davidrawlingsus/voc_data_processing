@@ -1,0 +1,405 @@
+Caplena Projects List
+==================================================
+
+Total Projects: 100
+
+1. MRT - Intercom chats
+   ID: pj_ozelv
+   Language: en
+
+2. NPS Analysis - 2025-10-25 14:03
+   ID: pj_2r07y
+   Language: en
+
+3. Test Project
+   ID: pj_zg9zz
+   Language: en
+
+4. Test Project
+   ID: pj_d37wz
+   Language: en
+
+5. USFS - Magic Question
+   ID: pj_g3kpp
+   Language: en
+
+6. Martin Randall - AITO
+   ID: pj_djygx
+   Language: en
+
+7. MRT - Magic Question
+   ID: pj_2rwkx
+   Language: en
+
+8. MRT Media
+   ID: pj_e32ey
+   Language: en
+
+9. MRT Prospect Survey Analysis
+   ID: pj_7ojno
+   Language: en
+
+10. MRT Customer Survey Analysis
+   ID: pj_r177r
+   Language: en
+
+11. ES - Current User Unique Opens
+   ID: pj_1kdm2
+   Language: en
+
+12. ES - Common Opens
+   ID: pj_22dm2
+   Language: en
+
+13. A&B - Routine or Ritual
+   ID: pj_r2oj2
+   Language: en
+
+14. Demo [Fully-Open] - Telecom NPS | fine-tuned
+   ID: pj_22ol2
+   Language: en
+
+15. Demo [Semi-Open] - Banks unaided awareness
+   ID: pj_z23mj
+   Language: en
+
+16. Demo [Fully-Open] - Telecom NPS
+   ID: pj_djen1
+   Language: en
+
+17. US Flag - 2024
+   ID: pj_0g74n
+   Language: en
+
+18. Absolute Reg - Abandoners
+   ID: pj_mrkky
+   Language: en
+
+19. Collagen Research - Current User - UK/US
+   ID: pj_4emnk
+   Language: en
+
+20. Collagen Research - Past User - De
+   ID: pj_4evdk
+   Language: en
+
+21. Collagen Research - Current User - De
+   ID: pj_1k1nx
+   Language: en
+
+22. Collagen Research - Never Used - De
+   ID: pj_6ypdr
+   Language: en
+
+23. Collagen Research - Never Used - De (INCORRECT)
+   ID: pj_70pkg
+   Language: de
+
+24. Collagen Research - Current User - De (INCORRECT)
+   ID: pj_y61oz
+   Language: de
+
+25. Collagen Research - Past User - UK/US
+   ID: pj_0gmno
+   Language: en
+
+26. Collagen Research - Never Used - UK/US
+   ID: pj_y6voz
+   Language: en
+
+27. Evolve - NPS Data
+   ID: pj_pexmp
+   Language: en
+
+28. Evolve - Success Page
+   ID: pj_pe64l
+   Language: en
+
+29. Katkin Trustpilot
+   ID: pj_jez9w
+   Language: en
+
+30. Usewell
+   ID: pj_9v0d1
+   Language: en
+
+31. Elvie Pump Reviews
+   ID: pj_n2e99
+   Language: en
+
+32. Elvie - NPS
+   ID: pj_pepyp
+   Language: en
+
+33. Omlet Iceberg Buyer Verbatims
+   ID: pj_lrjww
+   Language: en
+
+34. Elvie - Success Page Feedback
+   ID: pj_mr6w6
+   Language: en
+
+35. PK - Success Survey
+   ID: pj_dy9dx
+   Language: en
+
+36. Rabbie's - Success Page Survey
+   ID: pj_x67y9
+   Language: en
+
+37. Duffell's Success Page Survey
+   ID: pj_gkyd2
+   Language: en
+
+38. Omlet Success Page
+   ID: pj_v0dyj
+   Language: en
+
+39. Ancient & Brave - Success Page
+   ID: pj_m0wy9
+   Language: en
+
+40. Liforme - Success Page
+   ID: pj_g9o1p
+   Language: en
+
+41. Bother - Hotjar Success Page
+   ID: pj_4mkml
+   Language: en
+
+42. Varley Success Page Survey
+   ID: pj_6jjnx
+   Language: en
+
+43. Mark Spain
+   ID: pj_nge2g
+   Language: en
+
+44. The Whisky Exchange - Success Page
+   ID: pj_g9zmp
+   Language: en
+
+45. Brand Awareness - Unaided
+   ID: pj_krj2y
+   Language: en
+
+46. PK - Advocates 6.7
+   ID: pj_o7no3
+   Language: en
+
+47. PK - Churner Survey
+   ID: pj_vjdp4
+   Language: en
+
+48. Omlet - FB Cat Survey
+   ID: pj_3k67x
+   Language: en
+
+49. PK - Unconverted Survey
+   ID: pj_o7ngv
+   Language: en
+
+50. Absolute Reg ValueMap
+   ID: pj_4rp0l
+   Language: en
+
+51. Absolute Reg -  Check Out Question
+   ID: pj_6v2m3
+   Language: en
+
+52. Absolute Reg - Reviews
+   ID: pj_7vv4x
+   Language: en
+
+53. Prep Kitchen 2
+   ID: pj_xzelz
+   Language: en
+
+54. Omlet Electronic Door Trial
+   ID: pj_7vnyx
+   Language: en
+
+55. Demo [Fully-Open] - Telecom NPS | fine-tuned
+   ID: pj_wjpw0
+   Language: en
+
+56. Demo [Semi-Open] - Banks unaided awareness
+   ID: pj_jrznr
+   Language: en
+
+57. Demo [Fully-Open] - Telecom NPS
+   ID: pj_mrnw0
+   Language: en
+
+58. N.E.T.R. Inc
+   ID: pj_vjnd0
+   Language: en
+
+59. Prep Kitchen
+   ID: pj_2kxjx
+   Language: en
+
+60. JSP Home Services
+   ID: pj_6vw2r
+   Language: en
+
+61. The Whisky Exchange
+   ID: pj_0zj6o
+   Language: en
+
+62. Holy Curls Pollfish Survey
+   ID: pj_e1wex
+   Language: en
+
+63. Holy Curls Reviews
+   ID: pj_e1o6y
+   Language: en
+
+64. Liforme Email Survey
+   ID: pj_10n2d
+   Language: en
+
+65. Relish
+   ID: pj_736zg
+   Language: en
+
+66. Omlet - Rabbit, Hamster & GP -FB Survey
+   ID: pj_g9gvp
+   Language: en
+
+67. Prep Kitchen - Trustpilot
+   ID: pj_z4nkn
+   Language: en
+
+68. A&B Email Survey
+   ID: pj_2kxx0
+   Language: en
+
+69. Ancient & Brave - Yotpo
+   ID: pj_g9jwg
+   Language: en
+
+70. The Turmeric Co
+   ID: pj_dprvo
+   Language: en
+
+71. Sila Services
+   ID: pj_ve9y3
+   Language: en
+
+72. Rabbie's - Tour Feedback
+   ID: pj_ve03j
+   Language: en
+
+73. Rabbie's - Brand Level Feedback
+   ID: pj_7pm3d
+   Language: en
+
+74. Prep Kitchen - Success Page
+   ID: pj_61mkx
+   Language: en
+
+75. Rabbie's - Trustpilot
+   ID: pj_g6rje
+   Language: en
+
+76. Omlet - Dog Bed Reviews
+   ID: pj_pdvzl
+   Language: en
+
+77. Dog Bed - FB Data
+   ID: pj_2p140
+   Language: en
+
+78. Omlet - Amazon Dog Bed
+   ID: pj_11dx2
+   Language: en
+
+79. Omlet USP Project
+   ID: pj_d6e6e
+   Language: en
+
+80. Omlet - Wooden Coop Amazon Competitors
+   ID: pj_x6oz3
+   Language: en
+
+81. Omlet - Plastic Coops Amazon Competitors
+   ID: pj_m3erz
+   Language: en
+
+82. Omlet - Ex US - Success page survey
+   ID: pj_ndd1g
+   Language: en
+
+83. Hux - Okenda Reviews
+   ID: pj_v91g3
+   Language: en
+
+84. Stocked - Trust Pilot
+   ID: pj_eepxx
+   Language: en
+
+85. Hux Health - Objections
+   ID: pj_3j6yx
+   Language: en
+
+86. Hux - Desires
+   ID: pj_p7nl4
+   Language: en
+
+87. Hux - Trustpilot
+   ID: pj_d76mx
+   Language: en
+
+88. Bother Email Survey 2/2
+   ID: pj_yw2zx
+   Language: en
+
+89. Bother - Email Survey 1/2
+   ID: pj_0wx3n
+   Language: en
+
+90. Bother - Trustpilot
+   ID: pj_1g7kx
+   Language: en
+
+91. NEOM - Success Page Survey
+   ID: pj_or713
+   Language: en
+
+92. Wattbike Customer Email Survey
+   ID: pj_d9jg9
+   Language: en
+
+93. Duffell's USP
+   ID: pj_1gg7x
+   Language: en
+
+94. Mous Email Survey
+   ID: pj_mjde0
+   Language: en
+
+95. Wattbike - Success Page Survey
+   ID: pj_2wr1d
+   Language: en
+
+96. Wattbike Trust Pilot Reviews
+   ID: pj_pvrmm
+   Language: en
+
+97. Mous - Success Page Survey
+   ID: pj_yvx6d
+   Language: en
+
+98. Wattbike Prospect Email Survey
+   ID: pj_z7gnw
+   Language: en
+
+99. Trustpilot Sentiment / Time
+   ID: pj_4wo9k
+   Language: en
+
+100. Demo [Fully-Open] - Carrier NPS | fine-tuned
+   ID: pj_gyvge
+   Language: en
+
