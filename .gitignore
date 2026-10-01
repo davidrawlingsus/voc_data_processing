@@ -27,3 +27,7 @@ Thumbs.db
 # Exclude JSON data files
 *.json
 !dimension_definitions.json
+
+# Output directory
+outputs/
+
